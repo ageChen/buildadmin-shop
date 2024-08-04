@@ -1,6 +1,6 @@
 # 介绍
 
-基于 `buildadmin`  + `Uni-app` 的商城小程序，支持常驻内存运行。
+基于buildadmin+uni-app的商城小程序，支持常驻内存运行。
 
 
 
@@ -14,7 +14,7 @@
 
 ## 广告位管理
 
- 灵活设置前台首页轮播图、`滚动公告栏` 和商品推荐橱窗 ，支持设置轮播图和商品橱窗快速跳转详情或列表。
+ 灵活设置前台首页`轮播图`、`滚动公告栏` 和`商品推荐橱窗 `，支持设置轮播图和商品橱窗快速跳转详情或列表。
 
 
 
@@ -52,7 +52,7 @@
 
 支持 `统一发货` 和 `分拆发货` ，满足不同发货需求。
 
-已接入 [小程序发货信息管理](https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/fahuoguanligongneng.html) 和 [小程序确认收货组件](https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/order-shipping/order-shipping-half.html)，无需手动到小程序后台输入物流信息。
+接入 [小程序发货信息管理](https://developers.weixin.qq.com/miniprogram/product/jiaoyilei/fahuoguanligongneng.html) 和 [小程序确认收货组件](https://developers.weixin.qq.com/miniprogram/dev/platform-capabilities/business-capabilities/order-shipping/order-shipping-half.html)，无需手动到小程序后台输入物流信息。
 
 
 
@@ -72,7 +72,9 @@
 
 ## 订单评价
 
-用户可通过订单对商品进行评价，后台可查看和管理商品评价。 不仅为用户提供了表达意见和反馈的渠道，也有助于了解用户的需求和意见，从而不断改进和优化商品及服务。
+用户可通过订单对商品进行评价，后台可查看和管理商品评价。 
+
+不仅为用户提供了表达意见和反馈的渠道，也有助于了解用户的需求和意见，从而不断改进和优化商品及服务。
 
 
 
@@ -98,7 +100,7 @@
 
 ## 物流追踪
 
-对接 `微信小程序物流组件` 和 `快递100` 物流查询服务商，满足多种物流查询需求。
+支持 `微信小程序物流组件` 和 `快递100` 物流查询服务商，满足多种物流查询需求。
 
 
 
