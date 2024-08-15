@@ -1,6 +1,50 @@
-# 介绍
+# 项目展示
 
-基于buildadmin+uni-app的商城小程序，支持常驻内存运行。
+![在这里插入图片描述](https://static-web.joysplay.cn/1.png)
+
+
+
+![](https://static-web.joysplay.cn/2.png)
+
+
+
+![](https://static-web.joysplay.cn/3.png)
+
+
+
+![](https://static-web.joysplay.cn/4.png)
+
+
+
+![](https://static-web.joysplay.cn/5.png)
+
+
+
+![https://static-web.joysplay.cn/6.png](https://static-web.joysplay.cn/6.png)
+
+
+
+![https://static-web.joysplay.cn/7.png](https://static-web.joysplay.cn/7.png)
+
+
+
+# 体验地址
+
+项目主页：[https://modules.buildadmin.com/joyshop](https://modules.buildadmin.com/joyshop) 
+
+项目后台：[https://shop.joysplay.cn/#/admin/login](https://shop.joysplay.cn/#/admin/login)
+
+体验小程序：
+
+<img src="https://static-web.joysplay.cn/code.png" align=left />
+
+
+
+# 项目介绍
+
+基于`buildadmin` + ` uni-app` 的商城小程序，支持常驻内存运行。
+
+技术栈：`thinkphp8 ` + `vue3` + `typescript` + `uniapp` + `redis` + `easyWechat` 等
 
 
 
@@ -132,16 +176,9 @@
 
 
 
-# 文档
+## 文档
 
 提供安装使用说明文档和接口文档
 
 
 
-# 体验地址
-
- [JoyShop商城 - BuildAdmin](https://modules.buildadmin.com/joyshop) 
-
-
-
-<img src="https://static-web.joysplay.cn/code.png" align=left />
