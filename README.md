@@ -36,7 +36,9 @@
 
 体验小程序：
 
-<img src="https://static-web.joysplay.cn/code.png" align=left />
+<img src="https://static-web.joysplay.cn/code.png"/>
+
+
 
 
 
