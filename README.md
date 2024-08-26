@@ -1,3 +1,47 @@
+# 项目展示
+
+![在这里插入图片描述](https://static-web.joysplay.cn/1.png)
+
+
+
+![](https://static-web.joysplay.cn/2.png)
+
+
+
+![](https://static-web.joysplay.cn/3.png)
+
+
+
+![](https://static-web.joysplay.cn/4.png)
+
+
+
+![](https://static-web.joysplay.cn/5.png)
+
+
+
+![https://static-web.joysplay.cn/6.png](https://static-web.joysplay.cn/6.png)
+
+
+
+![https://static-web.joysplay.cn/7.png](https://static-web.joysplay.cn/7.png)
+
+
+
+# 体验地址
+
+项目后台：[https://shop.joysplay.cn/#/admin/login](https://shop.joysplay.cn/#/admin/login)
+
+项目主页：[https://modules.buildadmin.com/joyshop](https://modules.buildadmin.com/joyshop) 
+
+扫码体验或微信搜索 `JoyShop商城` ：
+
+<img src="https://static-web.joysplay.cn/code.png"/>
+
+
+
+
+
 # 项目介绍
 
 基于`buildadmin` + ` uni-app` 的商城小程序，支持常驻内存运行。
@@ -137,48 +181,6 @@
 # 说明文档
 
 [https://doc.joysplay.cn](https://doc.joysplay.cn) 
-
-
-
-# 项目展示
-
-![在这里插入图片描述](https://static-web.joysplay.cn/1.png)
-
-
-
-![](https://static-web.joysplay.cn/2.png)
-
-
-
-![](https://static-web.joysplay.cn/3.png)
-
-
-
-![](https://static-web.joysplay.cn/4.png)
-
-
-
-![](https://static-web.joysplay.cn/5.png)
-
-
-
-![https://static-web.joysplay.cn/6.png](https://static-web.joysplay.cn/6.png)
-
-
-
-![https://static-web.joysplay.cn/7.png](https://static-web.joysplay.cn/7.png)
-
-
-
-# 体验地址
-
-项目主页：[https://modules.buildadmin.com/joyshop](https://modules.buildadmin.com/joyshop) 
-
-项目后台：[https://shop.joysplay.cn/#/admin/login](https://shop.joysplay.cn/#/admin/login)
-
-扫码体验或微信搜索 `JoyShop商城` ：
-
-<img src="https://static-web.joysplay.cn/code.png"/>
 
 
 
