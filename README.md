@@ -186,15 +186,13 @@
 
 ## 微信小程序
 
-扫码体验或微信搜索  `JoyShop商城` 小程序
+扫扫码体验或微信搜索  `JoyShop商城` 小程序
 
 ![](https://static-web.joysplay.cn/joyshop_qrcode.png)
 
 
 
 ## H5网页端
-
-扫码体验
 
 ![](https://static-web.joysplay.cn/joyshop_h5.png)
 
@@ -236,8 +234,6 @@
 
 ## 移动端
 
-
-
 <table>
     <tr>
         <td ><center><img src="https://static-web.joysplay.cn/mobile/1.png" ></center>		</td>
@@ -256,29 +252,30 @@
 
 
 
- 
+ <table>
+    <tr>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/5.png" ></center>		</td>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/6.png"></center></td>
+    </tr>
+</table>
 
 
 
+<table>
+    <tr>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/7.png" ></center>		</td>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/8.png"></center></td>
+    </tr>
+</table>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<table>
+    <tr>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/9.png" ></center>		</td>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/10.png"></center></td>
+    </tr>
+</table>
 
 
 
