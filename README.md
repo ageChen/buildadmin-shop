@@ -236,73 +236,49 @@
 
 ## 移动端
 
-<img src="https://static-web.joysplay.cn/mobile/1.png"  style="width: 45%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/2.png" style="width: 45%;; float:right" />
+
+
+<table>
+    <tr>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/1.png" ></center>		</td>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/2.png"></center></td>
+    </tr>
+</table>
 
 
 
+<table>
+    <tr>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/3.png" ></center>		</td>
+        <td ><center><img src="https://static-web.joysplay.cn/mobile/4.png"></center></td>
+    </tr>
+</table>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://static-web.joysplay.cn/mobile/3.png" style="width: 45%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/4.png" style="width: 45%;; float:right" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://static-web.joysplay.cn/mobile/5.png" style="width: 45%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/6.png" style="width: 45%; float:right" />
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -332,7 +308,43 @@
 
 
 
-<img src="https://static-web.joysplay.cn/mobile/7.png" style="width: 45%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/8.png" style="width: 45%; float:right" />
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
@@ -360,17 +372,7 @@
 
 
 
-
-
-
-
-
-
-<img src="https://static-web.joysplay.cn/mobile/9.png" style="width: 45%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/10.png" style="width: 45%; float:right" /> 
-
-
-
-
+  
 
 
 
