@@ -236,7 +236,7 @@
 
 ## 移动端
 
-<img src="https://static-web.joysplay.cn/mobile/1.png"  style="zoom: 15%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/2.png" style="zoom: 15%; float:right" />
+<img src="https://static-web.joysplay.cn/mobile/1.png"  style="zoom: 10%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/2.png" style="zoom: 10%; float:right" />
 
 
 
@@ -268,7 +268,7 @@
 
 
 
-<img src="https://static-web.joysplay.cn/mobile/3.png" alt="https://static-web.joysplay.cn/mobile/3.png" style="zoom: 15%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/4.png" style="zoom: 15%; float:right" />
+<img src="https://static-web.joysplay.cn/mobile/3.png" style="zoom: 10%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/4.png" style="zoom: 10%; float:right" />
 
 
 
@@ -300,7 +300,7 @@
 
 
 
-<img src="https://static-web.joysplay.cn/mobile/5.png" style="zoom: 15%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/6.png" style="zoom: 15%; float:right" />
+<img src="https://static-web.joysplay.cn/mobile/5.png" style="zoom: 10%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/6.png" style="zoom: 10%; float:right" />
 
  
 
@@ -332,7 +332,7 @@
 
 
 
-<img src="https://static-web.joysplay.cn/mobile/7.png" style="zoom: 15%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/8.png" style="zoom: 15%; float:right" />
+<img src="https://static-web.joysplay.cn/mobile/7.png" style="zoom: 10%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/8.png" style="zoom: 10%; float:right" />
 
 
 
@@ -366,7 +366,7 @@
 
 
 
-<img src="https://static-web.joysplay.cn/mobile/9.png" style="zoom: 15%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/10.png" style="zoom: 15%; float:right" /> 
+<img src="https://static-web.joysplay.cn/mobile/9.png" style="zoom: 10%; float:left" /> <img src="https://static-web.joysplay.cn/mobile/10.png" style="zoom: 10%; float:right" /> 
 
 
 
