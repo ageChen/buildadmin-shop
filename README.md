@@ -6,12 +6,6 @@
 
 
 
-# 项目主页
-
-点击访问项目主页：[JoyShop商城](https://modules.buildadmin.com/joyshop)
-
-
-
 # 技术栈
 
 后端： `thinkPHP8 ` + `MySQL8` +`redis` + `easyWechat` + `yansongda/pay `  等
@@ -279,29 +273,9 @@
 
 
 
+# 联系作者
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+私信联系或者加QQ  1215643128
 
 
 
